@@ -1,0 +1,2 @@
+rootProject.name="mobiquity-io"
+include 'mobiquity-io-war'
